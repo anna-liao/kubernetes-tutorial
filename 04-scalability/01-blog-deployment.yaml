@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: blog
-        image: dirkcgrunwald/blog
+        image: aliaoco/blog
         ports:
         - containerPort: 8888
         env:

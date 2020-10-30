@@ -14,4 +14,4 @@ spec:
   # 
   containers:
   - name: blog
-    image: dirkcgrunwald/blog:latest
+    image: aliaoco/blog:latest
